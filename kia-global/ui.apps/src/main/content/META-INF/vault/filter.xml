@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/apps/kia-global/clientlibs"/>
+    <filter root="/apps/kia-global/components"/>
+    <filter root="/apps/kia-global/i18n"/>
+</workspaceFilter>

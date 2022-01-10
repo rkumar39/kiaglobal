@@ -1,0 +1,10 @@
+{
+    "scripts": [
+        "create path (sling:OrderedFolder) /content/dam/kia-ap",
+        "create path (nt:unstructured) /content/dam/kia-ap/jcr:content",
+        "set properties on /content/dam/kia-ap/jcr:content",
+        "set cq:conf{String} to /conf/kia-ap",
+        "set jcr:title{String} to \"KIA AP\"",
+        "end"
+    ]
+}

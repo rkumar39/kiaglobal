@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/conf/kia-global" mode="merge"/>
+    <filter root="/content/kia-global" mode="merge"/>
+    <filter root="/content/dam/kia-global/asset.jpg" mode="merge"/>
+    <filter root="/content/experience-fragments/kia-global" mode="merge"/>
+</workspaceFilter>

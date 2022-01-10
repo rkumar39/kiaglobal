@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/conf/kia-ap" mode="merge"/>
+    <filter root="/content/kia-ap" mode="merge"/>
+    <filter root="/content/dam/kia-ap/asset.jpg" mode="merge"/>
+    <filter root="/content/experience-fragments/kia-ap" mode="merge"/>
+</workspaceFilter>
